@@ -1,4 +1,4 @@
-console.log("SERVER FILE LOADED")
+console.log("SERVER VERSION = NEW DEPLOY");
 const express = require("express");
 const cors = require("cors");
 
